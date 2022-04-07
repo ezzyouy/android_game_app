@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Jeu</string>
+    <string name="val_sup">Valeur superieur</string>
+    <string name="val_inf">Valeur inferieur</string>
+    <string name="bravo">Bravo!!</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="oui">Oui</string>
+    <string name="quitter">Quitter</string>
+    <string name="devinez">Devinez :</string>
+    <string name="score">Score :</string>
+    <string name="ok">ok</string>
+</resources>
